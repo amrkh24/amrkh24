@@ -16,7 +16,7 @@ I love building scalable software, designing databases, and experimenting with c
 
 ### 💞️ Collaboration & Reach
 * 🌱 I’m currently looking to collaborate on .NET Core backend projects and open-source initiatives.
-* 📫 How to reach me: Connect with me right here on GitHub or via my updated [LinkedIn Profile](https://www.linkedin.com/in/amr-khalil).
+* 📬 How to reach me: Connect with me right here on GitHub or via my updated [LinkedIn Profile](https://www.linkedin.com/profile/view?id=ACoAADe6wBsBzE6P0Z3bOsh-Z6p9Z-A15_XwWj0)
 
 ---
 <p align="center">
